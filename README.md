@@ -7,3 +7,4 @@ Created using HTML, CSS and Javacscript. An example project for learning jQuery
 
 ***
 ### Built only for computer devices
+### For mobile devices: https://github.com/sandeepB3/Simon-game-mobile
