@@ -4,3 +4,6 @@ The app has four colored buttons, each producing a particular tone when it is pr
 
 A game wherein players remember a sequence of patterns to win.
 Created using HTML, CSS and Javacscript. An example project for learning jQuery 
+
+***
+### Built only for computer devices
